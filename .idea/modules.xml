@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/machine learning notebook.iml" filepath="$PROJECT_DIR$/.idea/machine learning notebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../machine learning coursera/.idea/machine learning coursera.iml" filepath="$PROJECT_DIR$/../machine learning coursera/.idea/machine learning coursera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/machine-learning-notebook.iml" filepath="$PROJECT_DIR$/.idea/machine-learning-notebook.iml" />
     </modules>
   </component>
 </project>
